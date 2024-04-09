@@ -1,0 +1,1 @@
+    public enum Group{ MAMMAL, BIRD, AMPHIBIAN, INSECT }
